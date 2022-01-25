@@ -1,0 +1,7 @@
+C:\Users\Merve Demir\source\repos\ag_op_final\ag_op_final\bin\Debug\ag_op_final.exe.config
+C:\Users\Merve Demir\source\repos\ag_op_final\ag_op_final\bin\Debug\ag_op_final.exe
+C:\Users\Merve Demir\source\repos\ag_op_final\ag_op_final\bin\Debug\ag_op_final.pdb
+C:\Users\Merve Demir\source\repos\ag_op_final\ag_op_final\obj\Debug\ag_op_final.csprojResolveAssemblyReference.cache
+C:\Users\Merve Demir\source\repos\ag_op_final\ag_op_final\obj\Debug\ag_op_final.csproj.CoreCompileInputs.cache
+C:\Users\Merve Demir\source\repos\ag_op_final\ag_op_final\obj\Debug\ag_op_final.exe
+C:\Users\Merve Demir\source\repos\ag_op_final\ag_op_final\obj\Debug\ag_op_final.pdb
